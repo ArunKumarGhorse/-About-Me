@@ -16,7 +16,7 @@ My interests include:
 
 I like working on real-world projects that combine modern technologies with practical problem-solving.
 
-> This repository is currently private.
+> Repositories are currently private.
 > If you'd like to see the project/demo, feel free to connect through Gmail.
 
 📩 Email: [ghorsearun8@gmail.com](mailto:your-email@gmail.com)
